@@ -53,6 +53,7 @@
 - **September 6** - I get a mattress and box spring from him for a friend.
 - **September 9** - _Closing Tree LLC_(SJ) articles form dated.
 - **September 11🇺🇸** - _Closing Tree LLC_(SJ) articles form filed as `Shawn Johnson Organizer + Member`.
+  - [**Articles**](articles_closingtreellc.pdf)
   - Shawn Johnson is the initial agent.
   - Jim Gallagher and SJ are the incorporators.
 - **September 20** - He asks me about another investment house.
@@ -186,7 +187,7 @@
   - _GRB 446 N Louisiana Ave_(SJ) reinstatement filed
 - **October 03** - _60 Velvet Ridge Lane LLC_(SJ) articles form dated.
 - **October 04** - _This court finds in the favor of Shawn Johnson 561 Emma Road LLC_(SJ) articles filed as `S. Thomas Johnson`
-  - [**Articles**](articles_602_hay.pdf)
+  - [**Articles**](articles_561_emma.pdf)
 - **October 07** - _60 Velvet Ridge Lane LLC_(SJ) articles filed as `S. Thomas Johnson`
   - [**Articles**](articles_60_velvet.pdf)
   - Address listed at `60 Velvet Ridge Lane, Asheville NC 28806`
